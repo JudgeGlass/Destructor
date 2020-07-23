@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68738c2e-72d3-416f-8393-72135da4cf26" name="Default Changelist" comment="" />
+    <list default="true" id="68738c2e-72d3-416f-8393-72135da4cf26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/CommandListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Server/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/ops.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/ops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/plugins/destructor-0.0.1a.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Server/plugins/destructor-0.0.1a.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Server/server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/spigot.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/spigot.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/playerdata/fdb764e8-8184-4285-ad32-62f96a5328d4.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/playerdata/fdb764e8-8184-4285-ad32-62f96a5328d4.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world/stats/fdb764e8-8184-4285-ad32-62f96a5328d4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world/stats/fdb764e8-8184-4285-ad32-62f96a5328d4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/DIM-1/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/data/villages_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/data/villages_nether.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_nether/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_nether/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/DIM1/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/data/villages_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/data/villages_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/world_the_end/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Server/world_the_end/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/Destructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/Destructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,17 +45,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Destructor" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/Destructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            <state relative-caret-position="204">
+              <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#279#280#0" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
               </folding>
@@ -28,12 +68,45 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/CommandListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
         <option value="$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/Destructor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/CommandListener.java" />
       </list>
     </option>
   </component>
@@ -63,6 +136,9 @@
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -82,11 +158,42 @@
               <item name="Destructor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Destructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Destructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Destructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Destructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Destructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Destructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="destructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Destructor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Destructor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,21 +250,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.3298887" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49919224" visible="true" weight="0.11168522" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49945828" visible="true" weight="0.11168522" />
       <window_info id="Structure" order="6" sideWeight="0.5005417" side_tool="true" weight="0.11168522" />
-      <window_info id="Maven" order="7" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.11168522" />
+      <window_info id="Maven" order="7" sideWeight="0.5005417" side_tool="true" visible="true" weight="0.11168522" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -172,13 +280,45 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-20180712.114550-97-sources.jar!/net/md_5/bungee/api/ChatColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.12.2-R0.1-SNAPSHOT/spigot-api-1.12.2-R0.1-20180712.012057-156-sources.jar!/org/bukkit/ChatColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="127" column="51" selection-start-line="127" selection-start-column="51" selection-end-line="127" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/Destructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        <state relative-caret-position="204">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/judgeglass/destructor/CommandListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

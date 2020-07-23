@@ -4,3 +4,7 @@ main: net.judgeglass.destructor.Destructor
 authors: [HunterWIlcox]
 description: An Item Destructor
 website: www.judgeglass.net
+commands:
+  destructor:
+    description: Deconstructs Items
+    usage: /destructor
