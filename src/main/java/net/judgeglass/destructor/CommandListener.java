@@ -22,7 +22,7 @@ public class CommandListener implements CommandExecutor {
             player.sendMessage(ChatColor.RED + "Destructor: " + ChatColor.BLUE + "Init Destructor...");
 
             ItemStack handItem = player.getInventory().getItemInMainHand();
-            
+
 
 
             return true;

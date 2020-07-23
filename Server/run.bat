@@ -1,1 +1,0 @@
-java -Xmx3G -Xms3G -jar C:\Users\hunte\Documents\Destructor\Server\spigot-1.12.2.jar nogui
